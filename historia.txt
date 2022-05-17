@@ -2,4 +2,6 @@ esta es la historia de fabio cruz
 
 tiene 33 años y nació en colombia.
 
+Usuario1 tiene mas anios que el usuario admin.
+
 Hoy hablaremos de su vida y obra maestra.
